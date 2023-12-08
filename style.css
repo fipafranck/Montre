@@ -1,0 +1,224 @@
+.div1{
+    background-color: transparent;
+    height: 80px;
+}
+ul li{
+	display: inline-block;
+	text-decoration: none;
+    box-align: center ;
+}
+#acceuil{
+    background-color: transparent;
+    height: 80px;
+}
+h1{
+    text-align: center;
+    color: rgb(45, 13, 131);
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+}
+h2 a{
+    text-align: middle;
+}
+.acc{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+    width: 150px;
+}
+.acc:hover{
+    border-top: 5px solid rgb(56, 56, 226);
+    background-color: greenyellow;
+}
+.typ-mon{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+}
+.typ-mon:hover{
+    border-top: 5px solid orange;
+    background-color: skyblue;
+}
+.cont{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+    width: 150px;
+}
+.cont:hover{
+    border-top: 5px solid rgba(228, 32, 32, 0.589);
+    background-color: orange;
+}
+div ul{
+    text-align: middle;
+    height: 100px;
+}
+body{
+    background-image: url("back-img/R.jfif");
+    background-attachment: fixed;
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.off{
+    text-align: center;
+    background-color: darkcyan;
+    height: 30px;
+}
+.pr{
+    height:350px;
+    width:100%;
+    display: inline-block;
+}
+.pre{
+    background-color: rgba(219, 219, 219, 0.877);
+    display: inline-block;
+    float: left;
+    margin-left: 30px;
+
+}
+.pre-text{
+    display: inline-block;
+    float: right;
+    text-align: center;
+    padding-right: 60px;
+    color: blue;
+    background-color: rgba(7, 108, 155, 0.466);
+    height: 300px;
+    width: 300px;
+    margin-right: 300px;
+}
+.im1{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im1:hover{
+    height: 320px;
+    width: 420px;
+}
+.im2{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im2:hover{
+    height: 320px;
+    width: 420px;
+}
+.im3{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im3:hover{
+    height: 320px;
+    width: 420px;
+}
+.im0{
+    margin-left: 280px;
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im0:hover{
+    height: 320px;
+    width: 320px;
+}
+.ima0{
+    margin-left: 320px;
+}
+.ima1{
+    border: 2px solid black;
+}
+.ima2{
+    border: 2px solid black;
+}
+.ima3{
+    border: 2px solid black;
+}
+.enf{
+    background-color: coral;
+    width: 290px;
+    margin-left: 500px;
+    height: 30px;
+    transition: width 0.25s, height 0.5s;
+}
+.enf:hover{
+    height: 35px;
+    width: 295px;
+    background-color: goldenrod;
+}
+.en{
+    margin-left: 70px;
+}
+.div1er{
+    border-top: 4px solid aqua;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.div2eme{
+    border-top: 4px solid rgba(0, 255,250);
+    height: 150px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-left: mediumseagreen;
+}
+.pieds-liens{
+    background-color: greenyellow;
+}
+.icon1{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon1:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon2{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon2:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon3{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon3:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon4{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon4:hover{
+    height: 35px;
+    width: 35px;
+    color: skyblue;
+}
+.icon5{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+}
+.icon6{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+}
+.pieds{
+    text-align: center;
+}
+footer{
+    margin: 0px;
+    height: 30px;
+    background-color: gray;
+}

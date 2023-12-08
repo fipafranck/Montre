@@ -1,0 +1,264 @@
+.div1{
+    background-color: transparent;
+    height: 80px;
+}
+ul li{
+	display: inline-block;
+	text-decoration: none;
+    box-align: center ;
+}
+#acceuil{
+    height: 80px;
+    background-color:  transparent;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+}
+h2 a{
+    text-align: middle;
+}
+.acc{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+    width: 150px;
+}
+.acc:hover{
+    border-top: 5px solid rgb(56, 56, 226);
+    background-color: rgba(165, 146, 146, 0.425);
+}
+.typ-mon{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+}
+.typ-mon:hover{
+    background-color: skyblue;
+    border-top: 5px solid rgb(96, 226, 56);
+}
+.cont{
+    background-color: blanchedalmond;
+    border-radius: 2px;
+    width: 150px;
+}
+.cont:hover{
+    background-color: orange;
+    border-top: 5px solid rgba(228, 32, 32, 0.589);
+}
+div ul{
+    text-align: middle;
+    height: 100px;
+}
+.pieds{
+    text-align: center;
+}
+.pieds-liens{
+    background-color: greenyellow;
+}
+body{
+    background-image: url("back-img/shahrukh-rehman-05IxAEjVNl0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+form{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.body{
+    background-image: url("back-img/montre24.jpg");
+    background-attachment: fixed;
+    background-size: 1500px;
+    background-repeat: no-repeat;
+}
+.contact{
+    background-color: rgb(85, 82, 82);
+}
+.off{
+    text-align: center;
+    background-color: rgb(121, 121, 115);
+    height: 30px;
+}
+.choix-hom{
+    background-color: rgb(39, 58, 63);
+    height: 50px;
+}
+.ch-hom{
+    color: black;
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+i{
+    color: transparent;
+}
+.im0{
+    border: 2px solid black;
+    border-radius: 4px;
+    transition: width 0.25s, height 0.5s;
+}
+.im0:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im1{
+    border: 2px solid black;
+    border-radius: 4px;
+    transition: width 0.25s, height 0.5s;
+}
+.im1:hover{
+    height: 320px;
+    width: 320px;
+    border: 2px solid blue;
+}
+.im2{
+    border: 2px solid black;
+    border-radius: 4px;
+    transition: width 0.25s, height 0.5s;
+}
+.im2:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im3{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im3:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im4{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im4:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im5{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im5:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im6{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im6:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im7{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im7:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im8{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im8:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im9{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im9:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im10{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im10:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.im11{
+    border: 2px solid black;
+    transition: width 0.25s, height 0.5s;
+}
+.im11:hover{
+    height: 320px;
+    width: 320px;
+    border: 3px solid blue;
+}
+.icon1{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon1:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon2{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon2:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon3{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon3:hover{
+    height: 35px;
+    width: 35px;
+}
+.icon4{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+    transition: width 0.25s, height 0.5;
+}
+.icon4:hover{
+    height: 35px;
+    width: 35px;
+    color: skyblue;
+}
+.icon5{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+}
+.icon6{
+    border: 1px solid black;
+    height:30px;
+    width:30px;
+}
+footer{
+    margin: 0px;
+    height: 30px;
+    background-color: gray;
+}
